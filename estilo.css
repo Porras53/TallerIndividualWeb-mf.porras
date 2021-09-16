@@ -1,0 +1,64 @@
+body
+{
+    background-color: darkgray;
+}
+
+#banner
+{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+    background-color: rgb(88,75,61);
+    color:white;
+    
+}
+
+#leftMenu
+{
+    text-align: center;
+    background-color: rgb(248,154,61)
+    ;
+}
+#topMenu
+{
+    text-align: center;
+    background-color: rgba(195,145,130,255);
+}
+
+#parrafo
+{
+    text-align: justify;
+}
+
+#Main-content
+{
+    padding: 100px;
+    text-align: center;
+}
+
+#photored
+{
+    background-color: #c5697a
+    ;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+
+}
+
+#photoblue
+{
+    background-color: #00a2b6
+    ;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+
+}
+
+#footer
+{
+    text-align: center;
+    background-color: rgb(88,75,61);
+    color:white;
+}
